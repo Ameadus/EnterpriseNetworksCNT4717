@@ -1,0 +1,11 @@
+74.1258,  "Gray Mountain - John Grisham", 14.95, 2, 0.0, 29.9, 2018/01/24 00:44:55 AM EST
+74.1258,  "Revival - Stephen King", 12.95, 6, 10.0, 69.93, 2018/01/24 00:44:55 AM EST
+164.724,  "Revival - Stephen King", 12.95, 15, 20.0, 155.4, 2018/01/24 00:46:11 AM EST
+161.63939,  "Gray Mountain - John Grisham", 14.95, 12, 15.0, 152.48999, 2018/01/24 00:54:02 AM EST
+31.694,  "The Guilty - David Baldacci", 14.95, 2, 0.0, 29.9, 2018/01/24 00:56:51 AM EST
+152.15186,  "Terminal City - Linda Fairstein", 10.95, 12, 15.0, 111.689995, 2018/01/24 01:01:05 AM EST
+152.15186,  "Dust - Patricia Cornwell", 12.99, 13, 15.0, 143.53949, 2018/01/24 01:01:05 AM EST
+4612.272,  "14th Deadly Sin - James Patterson", 14.95, 5, 10.0, 67.275, 2018/01/24 13:12:01 PM EST
+4612.272,  "The Circle - Dave Eggers", 14.99, 69, 20.0, 827.44794, 2018/01/24 13:12:01 PM EST
+4612.272,  "Tricky Twenty-Two - Janet Evanovich", 12.95, 420, 20.0, 4351.2, 2018/01/24 13:12:01 PM EST
+10.547,  "W Is For Wasted - Sue Grafton", 9.95, 1, 0.0, 9.95, 2018/01/25 16:00:09 PM EST

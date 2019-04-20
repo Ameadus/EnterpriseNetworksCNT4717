@@ -1,0 +1,1 @@
+To run the .jar file switch to the files directory in terminal and type java -jar BankAccount.jar 

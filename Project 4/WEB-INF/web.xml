@@ -1,0 +1,31 @@
+<!-- Alexander Meade
+CNT 4714 Spring 2018
+A Three-Tier Distributed Web-Based Application
+-->
+
+<web-app>
+	<!--  General description of your Web application  -->
+	<display-name>
+		CNT 4714 – Spring 2018 – Project Four
+	</display-name>
+	<description>Remote Database Management System</description>
+	<!--  Servlet definitions  -->
+	<servlet>
+		<servlet-name>logic</servlet-name>
+	<!--	<jsp-file>/index.jsp</jsp-file> -->
+		<servlet-class>DBServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+	<servlet-name>logic</servlet-name>
+		 <url-pattern>/logic</url-pattern>
+	</servlet-mapping>
+
+	<session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+
+    <welcome-file-list>
+      <!--  <welcome-file>index.jsp</welcome-file> -->
+    </welcome-file-list>
+</web-app>
